@@ -1,0 +1,64 @@
+
+body {
+  font-family: fantasy;
+  color:  #FFF5EE;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: cursive;
+  color: blanchedalmond;
+}
+
+h2 {
+  font-family: 'Alkalami', serif;
+  color: powderblue;
+}
+
+h3 {
+  font-family: monospace;
+  color: blanchedalmond;
+}
+
+a {
+  color: #1A48E3;
+  font-weight: bold;
+  text-decoration: none;
+  transition: .3s;
+}
+
+a:hover {
+  color: #CE2FAE;
+}
+
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(https://images.unsplash.com/photo-1617121346253-43ef95179ac9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mnx8fGVufDB8fHx8&w=1000&q=80);
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: center;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+.footer {
+  background: black;
+  text-align: center;
+  padding: 24px 10;
+}
+
+.card-white {
+  background: white;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+  padding: 24px;
+  margin: 8px;
+}
+
+
+
